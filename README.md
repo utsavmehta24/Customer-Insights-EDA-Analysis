@@ -70,14 +70,17 @@ This project performs an end-to-end exploratory data analysis on a US customer d
 
 ### Distribution Analysis
 ![Customer Data Distributions](fig1_distributions.png)
+
 *Comprehensive view of customer demographic and spending distributions*
 
 ### Correlation Analysis  
 ![Correlation Heatmap](fig6_heatmap.png)
+
 *Correlation matrix revealing relationships between customer attributes*
 
 ### Business Insights
 ![Key Business Insights](fig8_insights.png)
+
 *Statistical evidence supporting business recommendations*
 
 ## 🎯 Key Business Insights
