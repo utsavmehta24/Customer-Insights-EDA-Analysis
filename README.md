@@ -111,7 +111,7 @@ This project performs an end-to-end exploratory data analysis on a US customer d
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/customer-insights-eda-analysis.git
+   git clone https://github.com/utsavmehta24/Customer-Insights-EDA-Analysis
    cd customer-insights-eda-analysis
    ```
 
